@@ -1,0 +1,10 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+    In this project, there are three new tags I have never been used before.
+    And one more tag called <hr> I saw it before but it has different usage in this project.
+  * What has been easy?
+    The whole formatting is easy and clear understand.
+  * What has been difficult?
+    At the beginning, I thought the second line may be a  header, actually, it should be use in paragraph tag. And I found that the strong tag can not be used in header.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    Yes, when I used the three new tags, I searched in the Internet then got the way for using them by the MDN web docs.
